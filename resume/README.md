@@ -2,9 +2,10 @@
 
 Combined professional resume built from:
 
-- The detailed 2017/updated source resume (dates, patents, fossil-application portfolio, quantified results)
-- The Calibri professional draft (structure, summary/competency framing)
-- Career highlights: $60M emissions-credit platform, patented Compaq software delivery (70% manufacturing-time reduction), biodiesel process intensification (4 hours → 4 minutes), and Fossil Generation application leadership
+- The detailed source resume (dates, patents, fossil-application portfolio)
+- The Calibri professional draft (structure and competency framing)
+- Career highlights provided by Ty (Vistra, Compaq, Texas Built, ARIS, Stanford Telecom)
+- Interview/IP notes (case-study metrics: AWS/SCADA emissions platform, 80% reporting-time cut, 60x biodiesel throughput)
 
 ## Files
 

@@ -2,43 +2,43 @@
 
 Winnsboro, Texas 75494 · (903) 474-3647 · tymarler@gmail.com
 
-**Senior Application Architect · Inventor · Energy & Manufacturing Systems**
+**Senior Application Architect · Inventor · Energy, Climate-Tech & Manufacturing Systems**
 
 ## Professional Summary
 
-Senior application architect and hands-on technical leader who invents, designs, and operates systems that cut cost and create measurable profit. Named inventor on two issued U.S. patents. Recent work covers AWS cloud, .NET, SQL, OSIsoft PI, SharePoint, Chef, and the Fossil Generation application portfolio for mining, emissions, safety, and mobility. Combines architecture, TCO analysis, and root-cause troubleshooting with the ability to lead day-to-day delivery across cross-functional teams.
+Results-oriented technical strategist and application architect who builds mission-critical software and data-driven systems for operational efficiency, regulatory compliance, and business outcomes. Named inventor on two issued U.S. patents. Combines AWS cloud, .NET, SQL, and systems integration with deep expertise in energy, mining, manufacturing, and environmental systems, and leads cross-functional teams through the full project lifecycle.
 
 ## Selected Highlights
 
-- Designed a cloud-based emissions platform that normalized data from diverse systems to support credit trading, contributing **$60 million in profit** in the first two months.
-- Invented a patented Compaq software-delivery architecture that eliminated more than **70% of computer manufacturing time**.
-- Invented a process-intensified biodiesel method that reduced reaction time from **4 hours to 4 minutes**.
-- Led architecture, operations, and RCA for the Luminant/Vistra Fossil portfolio (MSHA, emissions, GIS, safety, mobility, PI, SharePoint, AWS/Chef).
+- **Vistra** — Designed a data-driven process engine for dynamic tasks; mine planning and monitoring software that measures productivity by shift; and a cloud emissions platform that unified diverse systems for credit trading, accounting for **$60 million** in profit in the first two months.
+- **Compaq** — Invented and developed a patented software-delivery system that eliminated more than **70% of computer manufacturing time**, plus a post-sales configuration method that increased inventory flexibility.
+- **Texas Built Biofuels** — Invented a process-intensified biodiesel method that reduced reaction time from **4 hours to 4 minutes** (60x throughput; ~40% lower energy cost per gallon; ASTM-quality fuel).
+- **Automated Response Information Systems** — Designed and implemented a hardware-based voice-recognition system for hands-free data collection in harsh environments.
+- **Stanford Telecommunications** — Worked on a team that developed planning and control software for the defense communication satellite network.
 
 ## Core Competencies
 
-Application Architecture · Cloud Configuration & Deployment (AWS, Chef) · .NET / C# / SQL · Project Leadership · Root-Cause Analysis · TCO Analysis · Data Modeling & Database Design · BAM / Application Monitoring · Emissions Compliance · Mining Operations Software · GIS · SharePoint · OSIsoft PI · Tableau
+Application Architecture · Systems Integration · AWS Cloud & Chef · .NET / C# / SQL · Agile / Scrum · Cross-Functional Leadership · Root-Cause Analysis · TCO Analysis · Data Modeling & Database Design · Emissions Compliance & Carbon Credit Trading · Mining Operations Software · GIS · SharePoint · OSIsoft PI · Tableau
 
 ## Professional Experience
 
-### Vistra Corp. — Texas
+### Vistra Corporate Services Company — Texas
 **Senior Analyst / Architect, Generation**  
 Dec 2019 – Feb 2025
 
-- Designed and developed a data-driven process engine that managed dynamic operational tasks and automated steps through completion.
+- Designed and developed a data-driven process engine to manage dynamic tasks, providing automated steps to drive the process to completion.
 - Designed and developed mine planning and monitoring software to calculate productivity and measure results by shift.
-- Built a cloud emissions-credit platform that unified heterogeneous data sources and accounted for $60 million in profit in the first two months.
-- Led design and development of web applications supporting mining, fossil generation, battery, and solar operations.
-- Delivered architectural solutions, TCO analysis, and SME support for mining operations, mining software, data modeling, and database design.
+- Designed and developed a cloud-based AWS platform that ingested SCADA, PLC, and third-party emissions data into a normalized database for credit trading; accounted for $60 million in profit in the first two months, cut trading latency from weeks to hours, and reduced compliance reporting time by 80%.
+- Led web applications supporting mining, fossil generation, battery, and solar operations, including Tableau dashboards for traders and compliance officers.
 
 ### Accenture — Texas
 **Business Application Manager**  
 Aug 2016 – Dec 2019
 
 - Led day-to-day maintenance, enhancement, and operations for the Fossil Applications portfolio serving Luminant generation and mining.
-- Directed development efforts across AWS Cloud, Chef, .NET, C#, C++, PHP, SQL Server, MySQL, Tableau, Formotus, TDMobile, StackVision, and NetDAHS.
+- Directed development across AWS, Chef, .NET, C#, C++, PHP, SQL Server, MySQL, Tableau, Formotus, TDMobile, StackVision, and NetDAHS.
 - Owned troubleshooting and RCA for production issues across ROTT, Skaief, SmartProcedures, GIS, Mobility, Safety Index, Proact, Digital Signage, Qdabra, SharePoint, PI, and land management.
-- Drove cloud configuration and Chef-based deployment, plus BAM application monitoring, to improve reliability and reduce operational risk.
+- Led a cloud modernization that aligned DevOps, QA, and engineering and delivered three weeks ahead of schedule. Mentored engineers on AWS and Chef; a junior developer became a lead contributor within six months.
 
 ### Capgemini, LLC — Texas
 **Senior Application Architect**  
@@ -46,25 +46,24 @@ Feb 2008 – Aug 2016
 
 - Architected and delivered Fossil Generation applications covering MSHA training, emissions compliance, procedures, GIS, safety, mobility, digital signage, and SharePoint.
 - Provided architectural solutions for new builds and rebuilds to improve reliability and functionality, including TCO analysis of existing and future-state environments.
-- Served as SME for mining operations, mining software systems, data modeling, and database design; led development, troubleshooting, and RCA for complex application issues.
-- Introduced mobility (Formotus, TDMobile), OSIsoft PI integration, land-management solutions, and application-monitoring practices that later scaled under Accenture and Vistra.
+- Served as SME for mining operations, mining software systems, data modeling, and database design; introduced mobility (Formotus, TDMobile), OSIsoft PI, land management, and application monitoring.
 
 ## Additional Experience
 
 **Texas Built Company, LLC** — Winnsboro, TX · Owner · Feb 1998 – Feb 2008  
-Invented a method to speed biodiesel production that reduced reaction time from four hours to four minutes. Built and operated process-intensified reactor technology (patent pending: Texas Built process intensified biofuels reactor technologies).
+Invented a process-intensified biodiesel reactor that reduced reaction time from four hours to four minutes, enabling continuous rather than batch production, about 60x throughput in the same footprint, and roughly 40% lower energy cost per gallon while maintaining ASTM fuel quality. Patent pending: Texas Built process intensified biofuels reactor technologies.
 
 **Samsung / AST Research** · Principal Engineer / Worldwide Software Systems Architect · Mar 1997 – Feb 1998  
 Worldwide software systems architecture for PC manufacturing and configuration platforms.
 
 **Compaq Computer Corporation** — Houston, TX · Senior Systems Engineer · Oct 1993 – Mar 1997  
-Invented and developed a patented software-delivery system that eliminated more than 70% of computer manufacturing time. Invented a post-sales configuration method that increased inventory flexibility. Named inventor on U.S. Patents 6,202,070 and 5,974,567.
+Invented and developed a patented software-delivery system that eliminated more than 70% of the manufacture time of their computers. Also invented a post-sales configuration method that increased inventory flexibility. Named inventor on U.S. Patents 6,202,070 and 5,974,567.
 
 **Automated Response Information Systems, Inc.** · Owner · Oct 1991 – Oct 1993  
 Designed and implemented a hardware-based voice-recognition system for hands-free data collection in harsh environments.
 
 **Stanford Telecommunications, Inc.** · Systems Engineer · Jul 1989 – Aug 1991  
-Developed planning and control software for the defense communication satellite network.
+Worked on a team to develop planning and control software for the defense communication satellite network.
 
 **Elcom and Associates** · Field Engineer · Feb 1987 – Jul 1989  
 Field engineering and technical support for communications and electronics systems.
@@ -82,12 +81,12 @@ Maintained strategic microwave communications; completed Army electronics, micro
 
 **Languages & platforms:** C# / .NET, VB.NET, C++ / C++.NET, C, PHP, Java, SQL, AJAX, Chef, Intel Assembly; prior: Ada, FORTRAN, BASIC, VMS/DCL, PRO\*C, FOCUS, PAL, Silverlight
 
-**Cloud, data & monitoring:** AWS, Amazon RDS, Chef, OSIsoft PI, MS SQL Server, MySQL, Oracle, DB2, Tableau, BAM application monitoring, StackVision, NetDAHS
+**Cloud, data & monitoring:** AWS, Amazon RDS, Chef, APIs, OSIsoft PI, MS SQL Server, MySQL, Oracle, DB2, Tableau, SCADA/PLC integration, BAM application monitoring, StackVision, NetDAHS
 
 **Applications & tools:** Visual Studio, SharePoint, ESRI GIS, Formotus, TDMobile, Qdabra, SmartProcedures, Visio, MS Project, LabVIEW, Cursor, Claude, ChatGPT
 
-**Domains:** Fossil generation, mining operations, emissions compliance and credit trading, MSHA training, behavior-based safety, land management, mobility, digital signage, computer manufacturing software delivery
+**Domains:** Fossil generation, mining operations, emissions compliance and carbon credit trading, MSHA training, behavior-based safety, land management, mobility, digital signage, computer manufacturing software delivery, biofuels process intensification
 
 ## Education & Professional Development
 
-Computer Science coursework and Certificate in Ada, Colorado Technical College. Advanced C++ and Advanced Java, Compaq Computer Corporation. DEC VAX/VMS System Management and System Performance Management. U.S. Army Basic Electronics, Strategic Microwave System Repair, and Cryptographic courses.
+Computer Science coursework and Certificate in Ada, Colorado Technical College. Advanced C++ and Advanced Java, Compaq. DEC VAX/VMS System Management. U.S. Army Basic Electronics, Strategic Microwave System Repair, and Cryptographic courses.

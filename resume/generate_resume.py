@@ -245,7 +245,7 @@ def build():
     tag.paragraph_format.space_after = Pt(2)
     tag.paragraph_format.line_spacing = 1.0
     run = tag.add_run(
-        "Senior Application Architect  ·  Inventor  ·  Energy & Manufacturing Systems"
+        "Senior Application Architect  ·  Inventor  ·  Energy, Climate-Tech & Manufacturing Systems"
     )
     set_run_font(run, size=10.5, italic=True, color=NAVY)
     set_run_font_ascii(run)
@@ -254,44 +254,52 @@ def build():
     heading(doc, "Professional Summary")
     body_para(
         doc,
-        "Senior application architect and hands-on technical leader who invents, designs, "
-        "and operates systems that cut cost and create measurable profit. Named inventor "
-        "on two issued U.S. patents. Recent work covers AWS cloud, .NET, SQL, OSIsoft PI, "
-        "SharePoint, Chef, and the Fossil Generation application portfolio for mining, "
-        "emissions, safety, and mobility. Combines architecture, TCO analysis, and root-cause "
-        "troubleshooting with the ability to lead day-to-day delivery across cross-functional teams.",
+        "Results-oriented technical strategist and application architect who builds mission-critical "
+        "software and data-driven systems for operational efficiency, regulatory compliance, and "
+        "business outcomes. Named inventor on two issued U.S. patents. Combines AWS cloud, .NET, "
+        "SQL, and systems integration with deep expertise in energy, mining, manufacturing, and "
+        "environmental systems, and leads cross-functional teams through the full project lifecycle.",
         space_after=2,
     )
 
     heading(doc, "Selected Highlights")
     add_bullet(
         doc,
-        "Designed a cloud-based emissions platform that normalized data from diverse systems "
-        "to support credit trading, contributing $60 million in profit in the first two months.",
+        "Vistra — Designed a data-driven process engine for dynamic tasks; mine planning and "
+        "monitoring software that measures productivity by shift; and a cloud emissions platform "
+        "that unified diverse systems for credit trading, accounting for $60 million in profit "
+        "in the first two months.",
     )
     add_bullet(
         doc,
-        "Invented a patented Compaq software-delivery architecture that eliminated more than "
-        "70% of computer manufacturing time.",
+        "Compaq — Invented and developed a patented software-delivery system that eliminated more "
+        "than 70% of computer manufacturing time, plus a post-sales configuration method that "
+        "increased inventory flexibility.",
     )
     add_bullet(
         doc,
-        "Invented a process-intensified biodiesel method that reduced reaction time from "
-        "4 hours to 4 minutes.",
+        "Texas Built Biofuels — Invented a process-intensified biodiesel method that reduced "
+        "reaction time from 4 hours to 4 minutes (60x throughput; ~40% lower energy cost per "
+        "gallon; ASTM-quality fuel).",
     )
     add_bullet(
         doc,
-        "Led architecture, operations, and RCA for the Luminant/Vistra Fossil portfolio "
-        "(MSHA, emissions, GIS, safety, mobility, PI, SharePoint, AWS/Chef).",
+        "Automated Response Information Systems — Designed and implemented a hardware-based "
+        "voice-recognition system for hands-free data collection in harsh environments.",
+    )
+    add_bullet(
+        doc,
+        "Stanford Telecommunications — Worked on a team that developed planning and control "
+        "software for the defense communication satellite network.",
     )
 
     heading(doc, "Core Competencies")
     body_para(
         doc,
-        "Application Architecture  ·  Cloud Configuration & Deployment (AWS, Chef)  ·  "
-        ".NET / C# / SQL  ·  Project Leadership  ·  Root-Cause Analysis  ·  TCO Analysis  ·  "
-        "Data Modeling & Database Design  ·  BAM / Application Monitoring  ·  Emissions "
-        "Compliance  ·  Mining Operations Software  ·  GIS  ·  SharePoint  ·  OSIsoft PI  ·  Tableau",
+        "Application Architecture  ·  Systems Integration  ·  AWS Cloud & Chef  ·  "
+        ".NET / C# / SQL  ·  Agile / Scrum  ·  Cross-Functional Leadership  ·  Root-Cause Analysis  ·  "
+        "TCO Analysis  ·  Data Modeling & Database Design  ·  Emissions Compliance & Carbon Credit "
+        "Trading  ·  Mining Operations Software  ·  GIS  ·  SharePoint  ·  OSIsoft PI  ·  Tableau",
         space_after=2,
     )
 
@@ -299,15 +307,15 @@ def build():
 
     job_header(
         doc,
-        "Vistra Corp.",
+        "Vistra Corporate Services Company",
         "Texas",
         "Senior Analyst / Architect, Generation",
         "Dec 2019 – Feb 2025",
     )
     add_bullet(
         doc,
-        "Designed and developed a data-driven process engine that managed dynamic operational "
-        "tasks and automated steps through completion.",
+        "Designed and developed a data-driven process engine to manage dynamic tasks, providing "
+        "automated steps to drive the process to completion.",
     )
     add_bullet(
         doc,
@@ -316,18 +324,15 @@ def build():
     )
     add_bullet(
         doc,
-        "Built a cloud emissions-credit platform that unified heterogeneous data sources and "
-        "accounted for $60 million in profit in the first two months.",
+        "Designed and developed a cloud-based AWS platform that ingested SCADA, PLC, and "
+        "third-party emissions data into a normalized database for credit trading; accounted "
+        "for $60 million in profit in the first two months, cut trading latency from weeks to "
+        "hours, and reduced compliance reporting time by 80%.",
     )
     add_bullet(
         doc,
-        "Led design and development of web applications supporting mining, fossil generation, "
-        "battery, and solar operations.",
-    )
-    add_bullet(
-        doc,
-        "Delivered architectural solutions, TCO analysis, and SME support for mining operations, "
-        "mining software, data modeling, and database design.",
+        "Led web applications supporting mining, fossil generation, battery, and solar operations, "
+        "including Tableau dashboards for traders and compliance officers.",
     )
 
     job_header(
@@ -344,8 +349,8 @@ def build():
     )
     add_bullet(
         doc,
-        "Directed development efforts across AWS Cloud, Chef, .NET, C#, C++, PHP, SQL Server, "
-        "MySQL, Tableau, Formotus, TDMobile, StackVision, and NetDAHS.",
+        "Directed development across AWS, Chef, .NET, C#, C++, PHP, SQL Server, MySQL, Tableau, "
+        "Formotus, TDMobile, StackVision, and NetDAHS.",
     )
     add_bullet(
         doc,
@@ -354,8 +359,9 @@ def build():
     )
     add_bullet(
         doc,
-        "Drove cloud configuration and Chef-based deployment, plus BAM application monitoring, "
-        "to improve reliability and reduce operational risk.",
+        "Led a cloud modernization that aligned DevOps, QA, and engineering and delivered three "
+        "weeks ahead of schedule. Mentored engineers on AWS and Chef; a junior developer became "
+        "a lead contributor within six months.",
     )
 
     job_header(
@@ -378,12 +384,8 @@ def build():
     add_bullet(
         doc,
         "Served as SME for mining operations, mining software systems, data modeling, and "
-        "database design; led development, troubleshooting, and RCA for complex application issues.",
-    )
-    add_bullet(
-        doc,
-        "Introduced mobility (Formotus, TDMobile), OSIsoft PI integration, land-management "
-        "solutions, and application-monitoring practices that later scaled under Accenture and Vistra.",
+        "database design; introduced mobility (Formotus, TDMobile), OSIsoft PI, land management, "
+        "and application monitoring.",
     )
 
     heading(doc, "Additional Experience")
@@ -393,9 +395,11 @@ def build():
         "Winnsboro, TX",
         "Owner",
         "Feb 1998 – Feb 2008",
-        "Invented a method to speed biodiesel production that reduced reaction time from "
-        "four hours to four minutes. Built and operated process-intensified reactor technology "
-        "(patent pending: Texas Built process intensified biofuels reactor technologies).",
+        "Invented a process-intensified biodiesel reactor that reduced reaction time from four "
+        "hours to four minutes, enabling continuous rather than batch production, about 60x "
+        "throughput in the same footprint, and roughly 40% lower energy cost per gallon while "
+        "maintaining ASTM fuel quality. Patent pending: Texas Built process intensified biofuels "
+        "reactor technologies.",
     )
     compact_role(
         doc,
@@ -412,8 +416,9 @@ def build():
         "Senior Systems Engineer",
         "Oct 1993 – Mar 1997",
         "Invented and developed a patented software-delivery system that eliminated more than "
-        "70% of computer manufacturing time. Invented a post-sales configuration method that "
-        "increased inventory flexibility. Named inventor on U.S. Patents 6,202,070 and 5,974,567.",
+        "70% of the manufacture time of their computers. Also invented a post-sales configuration "
+        "method that increased inventory flexibility. Named inventor on U.S. Patents 6,202,070 "
+        "and 5,974,567.",
     )
     compact_role(
         doc,
@@ -430,7 +435,8 @@ def build():
         "",
         "Systems Engineer",
         "Jul 1989 – Aug 1991",
-        "Developed planning and control software for the defense communication satellite network.",
+        "Worked on a team to develop planning and control software for the defense communication "
+        "satellite network.",
     )
     compact_role(
         doc,
@@ -476,8 +482,8 @@ def build():
     skill_line(
         doc,
         "Cloud, data & monitoring",
-        "AWS, Amazon RDS, Chef, OSIsoft PI, MS SQL Server, MySQL, Oracle, DB2, Tableau, "
-        "BAM application monitoring, StackVision, NetDAHS",
+        "AWS, Amazon RDS, Chef, APIs, OSIsoft PI, MS SQL Server, MySQL, Oracle, DB2, Tableau, "
+        "SCADA/PLC integration, BAM application monitoring, StackVision, NetDAHS",
     )
     skill_line(
         doc,
@@ -488,18 +494,17 @@ def build():
     skill_line(
         doc,
         "Domains",
-        "Fossil generation, mining operations, emissions compliance and credit trading, "
+        "Fossil generation, mining operations, emissions compliance and carbon credit trading, "
         "MSHA training, behavior-based safety, land management, mobility, digital signage, "
-        "computer manufacturing software delivery",
+        "computer manufacturing software delivery, biofuels process intensification",
     )
 
     heading(doc, "Education & Professional Development")
     body_para(
         doc,
         "Computer Science coursework and Certificate in Ada, Colorado Technical College. "
-        "Advanced C++ and Advanced Java, Compaq Computer Corporation. DEC VAX/VMS System "
-        "Management and System Performance Management. U.S. Army Basic Electronics, "
-        "Strategic Microwave System Repair, and Cryptographic courses.",
+        "Advanced C++ and Advanced Java, Compaq. DEC VAX/VMS System Management. U.S. Army "
+        "Basic Electronics, Strategic Microwave System Repair, and Cryptographic courses.",
         space_after=0,
     )
 
