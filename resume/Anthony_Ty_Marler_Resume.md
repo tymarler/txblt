@@ -10,7 +10,7 @@ Results-oriented technical strategist and application architect who builds missi
 
 ## Selected Highlights
 
-- **AI-assisted architecture** — Apply Cursor, Claude, and ChatGPT to design, code, document, and troubleshoot energy and industrial systems, pairing LLM workflows with architectural ownership and domain validation.
+- **AI-built applications** — Used Cursor, Claude, and ChatGPT to architect and develop an international fugitive-tracking application, a custom architectural-planning site, a clothing-brand retail site, and an internet television streaming application.
 - **Vistra** — Designed a data-driven process engine for dynamic tasks; mine planning and monitoring software that measures productivity by shift; and a cloud emissions platform that unified diverse systems for credit trading, accounting for **$60 million** in profit in the first two months.
 - **Compaq** — Invented and developed a patented software-delivery system that eliminated more than **70% of computer manufacturing time**, plus a post-sales configuration method that increased inventory flexibility.
 - **Texas Built Biofuels** — Invented a process-intensified biodiesel method that reduced reaction time from **4 hours to 4 minutes** (60x throughput; ~40% lower energy cost per gallon; ASTM-quality fuel).
@@ -26,8 +26,8 @@ Application Architecture · Generative AI (Cursor, Claude, ChatGPT) · Systems I
 **Application Architect, AI-Assisted Systems**  
 Mar 2025 – Present
 
-- Apply Cursor, Claude, and ChatGPT across architecture, coding, root-cause analysis, and documentation to accelerate delivery while retaining design ownership and domain review.
-- Use AI-assisted development to prototype and refine cloud and application solutions (AWS, .NET, SQL) for energy, climate-tech, and industrial operations.
+- Used Cursor, Claude, and ChatGPT to architect and develop an international fugitive-tracking application and a custom architectural-planning website.
+- Delivered a clothing-brand retail / e-commerce site and an internet television streaming application with AI-assisted architecture, UI, and backend development.
 
 ### Vistra Corporate Services Company — Texas
 **Senior Analyst / Architect, Generation**  
@@ -94,7 +94,7 @@ Maintained strategic microwave communications; completed Army electronics, micro
 
 **Applications & tools:** Visual Studio, SharePoint, ESRI GIS, Formotus, TDMobile, Qdabra, SmartProcedures, Visio, MS Project, LabVIEW
 
-**Domains:** Fossil generation, mining operations, emissions compliance and carbon credit trading, MSHA training, behavior-based safety, land management, mobility, digital signage, computer manufacturing software delivery, biofuels process intensification, AI-assisted industrial systems
+**Domains:** Fossil generation, mining operations, emissions compliance and carbon credit trading, MSHA training, e-commerce, streaming media, architectural planning systems, investigative/tracking applications, biofuels process intensification, AI-assisted industrial systems
 
 ## Education & Professional Development
 

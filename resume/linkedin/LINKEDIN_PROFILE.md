@@ -20,7 +20,7 @@ I invent, architect, and deliver software that turns operational complexity into
 Named inventor on two U.S. patents. I build cloud and on-prem systems for energy, mining, manufacturing, and environmental operations — from AWS data platforms and .NET applications to SCADA/PLC integration, OSIsoft PI, SharePoint, and Tableau. I apply generative AI (Cursor, Claude, ChatGPT) to architecture, coding, root-cause analysis, and documentation while keeping design ownership and domain review.
 
 Recent highlights:
-• Independent (2025–present): AI-assisted architecture and development for energy, climate-tech, and industrial systems using Cursor, Claude, and ChatGPT.
+• Independent (2025–present): Used Cursor, Claude, and ChatGPT to develop an international fugitive-tracking application, a custom architectural-planning site, a clothing-brand retail site, and an internet television streaming application.
 • At Vistra, designed a cloud emissions platform that unified data from diverse systems for carbon-credit trading — $60 million in profit in the first two months — plus a data-driven process engine and mine planning software that measures productivity by shift.
 • At Compaq, invented a patented software-delivery architecture that eliminated more than 70% of computer manufacturing time, and a post-sales configuration method that increased inventory flexibility.
 • At Texas Built, invented a process-intensified biodiesel method that cut reaction time from 4 hours to 4 minutes (about 60x throughput and ~40% lower energy cost per gallon).
@@ -41,9 +41,9 @@ Add or edit each role. Use the company LinkedIn page when LinkedIn offers it so 
 - Dates: Mar 2025 – Present
 
 ```
-Apply Cursor, Claude, and ChatGPT across architecture, coding, root-cause analysis, and documentation to accelerate delivery while retaining design ownership and domain review.
+Used Cursor, Claude, and ChatGPT to architect and develop an international fugitive-tracking application and a custom architectural-planning website.
 
-Use AI-assisted development to prototype and refine cloud and application solutions (AWS, .NET, SQL) for energy, climate-tech, and industrial operations.
+Delivered a clothing-brand retail / e-commerce site and an internet television streaming application with AI-assisted architecture, UI, and backend development.
 ```
 
 ### Vistra Corporate Services Company

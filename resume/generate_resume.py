@@ -266,9 +266,9 @@ def build():
     heading(doc, "Selected Highlights")
     add_bullet(
         doc,
-        "AI-assisted architecture — Apply Cursor, Claude, and ChatGPT to design, code, document, "
-        "and troubleshoot energy and industrial systems, pairing LLM workflows with architectural "
-        "ownership and domain validation.",
+        "AI-built applications — Used Cursor, Claude, and ChatGPT to architect and develop an "
+        "international fugitive-tracking application, a custom architectural-planning site, a "
+        "clothing-brand retail site, and an internet television streaming application.",
     )
     add_bullet(
         doc,
@@ -318,13 +318,13 @@ def build():
     )
     add_bullet(
         doc,
-        "Apply Cursor, Claude, and ChatGPT across architecture, coding, root-cause analysis, and "
-        "documentation to accelerate delivery while retaining design ownership and domain review.",
+        "Used Cursor, Claude, and ChatGPT to architect and develop an international "
+        "fugitive-tracking application and a custom architectural-planning website.",
     )
     add_bullet(
         doc,
-        "Use AI-assisted development to prototype and refine cloud and application solutions "
-        "(AWS, .NET, SQL) for energy, climate-tech, and industrial operations.",
+        "Delivered a clothing-brand retail / e-commerce site and an internet television "
+        "streaming application with AI-assisted architecture, UI, and backend development.",
     )
 
     job_header(
@@ -522,8 +522,8 @@ def build():
         doc,
         "Domains",
         "Fossil generation, mining operations, emissions compliance and carbon credit trading, "
-        "MSHA training, behavior-based safety, land management, mobility, digital signage, "
-        "computer manufacturing software delivery, biofuels process intensification, "
+        "MSHA training, e-commerce, streaming media, architectural planning systems, "
+        "investigative/tracking applications, biofuels process intensification, "
         "AI-assisted industrial systems",
     )
 
