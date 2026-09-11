@@ -16,5 +16,6 @@ Combined professional resume built from:
 | `Anthony_Ty_Marler_Resume.md` | Plain-text source |
 | `Anthony_Ty_Marler_Resume.html` | Print stylesheet used to generate the PDF |
 | `generate_resume.py` | Regenerates the Word document |
+| `linkedin/LINKEDIN_PROFILE.md` | Copy-paste headline, About, experience, skills, and patents for LinkedIn |
 
 Regenerate Word: `python3 resume/generate_resume.py`
