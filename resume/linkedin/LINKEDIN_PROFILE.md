@@ -9,7 +9,7 @@ Suggested order: Headline → About → Experience (newest first) → Skills →
 ## Headline (220-character max)
 
 ```
-Senior Application Architect | Inventor | Energy & Climate-Tech | Fractional CTO | Cloud Systems for Generation, Mining & Carbon Markets
+Senior Application Architect | Inventor | Energy & Climate-Tech | AI-Assisted Systems | Fractional CTO
 ```
 
 ## About
@@ -17,20 +17,34 @@ Senior Application Architect | Inventor | Energy & Climate-Tech | Fractional CTO
 ```
 I invent, architect, and deliver software that turns operational complexity into measurable profit.
 
-Named inventor on two U.S. patents. I build cloud and on-prem systems for energy, mining, manufacturing, and environmental operations — from AWS data platforms and .NET applications to SCADA/PLC integration, OSIsoft PI, SharePoint, and Tableau.
+Named inventor on two U.S. patents. I build cloud and on-prem systems for energy, mining, manufacturing, and environmental operations — from AWS data platforms and .NET applications to SCADA/PLC integration, OSIsoft PI, SharePoint, and Tableau. I apply generative AI (Cursor, Claude, ChatGPT) to architecture, coding, root-cause analysis, and documentation while keeping design ownership and domain review.
 
 Recent highlights:
+• Independent (2025–present): AI-assisted architecture and development for energy, climate-tech, and industrial systems using Cursor, Claude, and ChatGPT.
 • At Vistra, designed a cloud emissions platform that unified data from diverse systems for carbon-credit trading — $60 million in profit in the first two months — plus a data-driven process engine and mine planning software that measures productivity by shift.
 • At Compaq, invented a patented software-delivery architecture that eliminated more than 70% of computer manufacturing time, and a post-sales configuration method that increased inventory flexibility.
 • At Texas Built, invented a process-intensified biodiesel method that cut reaction time from 4 hours to 4 minutes (about 60x throughput and ~40% lower energy cost per gallon).
-• Earlier, built hands-free voice recognition for harsh environments and planning/control software for the defense communication satellite network at Stanford Telecommunications.
+• Earlier, built hands-free voice recognition for harsh environments (early applied AI) and planning/control software for the defense communication satellite network at Stanford Telecommunications.
 
-I lead cross-functional teams across product, engineering, DevOps, QA, and security, and I communicate architecture in language that operations, trading, and executives can act on. Open to architecture, fractional CTO, and consulting work in energy, climate-tech, and industrial systems.
+I lead cross-functional teams across product, engineering, DevOps, QA, and security, and I communicate architecture in language that operations, trading, and executives can act on. Open to architecture, fractional CTO, and consulting work in energy, climate-tech, industrial systems, and AI-assisted delivery.
 ```
 
 ## Experience
 
 Add or edit each role. Use the company LinkedIn page when LinkedIn offers it so the logo appears.
+
+### Independent (self-employed)
+
+- Title: Application Architect, AI-Assisted Systems
+- Type: Self-employed
+- Location: Texas, United States
+- Dates: Mar 2025 – Present
+
+```
+Apply Cursor, Claude, and ChatGPT across architecture, coding, root-cause analysis, and documentation to accelerate delivery while retaining design ownership and domain review.
+
+Use AI-assisted development to prototype and refine cloud and application solutions (AWS, .NET, SQL) for energy, climate-tech, and industrial operations.
+```
 
 ### Vistra Corporate Services Company
 
@@ -154,7 +168,7 @@ Maintained strategic microwave communications systems. Completed U.S. Army Basic
 
 ## Skills (add these first; LinkedIn will suggest more)
 
-Application Architecture, Systems Integration, Amazon Web Services (AWS), Microsoft .NET, C#, SQL, Chef, Agile Methodologies, Cloud Computing, Data Modeling, Tableau, SharePoint, OSIsoft PI, GIS, Root Cause Analysis, Project Management, Emissions Compliance, Mining, Energy, Mentoring
+Application Architecture, Generative AI, Cursor, ChatGPT, Systems Integration, Amazon Web Services (AWS), Microsoft .NET, C#, SQL, Chef, Agile Methodologies, Cloud Computing, Data Modeling, Tableau, SharePoint, OSIsoft PI, GIS, Root Cause Analysis, Project Management, Emissions Compliance, Mining, Energy, Mentoring
 
 ## Patents
 

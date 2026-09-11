@@ -245,7 +245,7 @@ def build():
     tag.paragraph_format.space_after = Pt(2)
     tag.paragraph_format.line_spacing = 1.0
     run = tag.add_run(
-        "Senior Application Architect  ·  Inventor  ·  Energy, Climate-Tech & Manufacturing Systems"
+        "Senior Application Architect  ·  Inventor  ·  Energy, Climate-Tech & AI-Assisted Systems"
     )
     set_run_font(run, size=10.5, italic=True, color=NAVY)
     set_run_font_ascii(run)
@@ -257,12 +257,19 @@ def build():
         "Results-oriented technical strategist and application architect who builds mission-critical "
         "software and data-driven systems for operational efficiency, regulatory compliance, and "
         "business outcomes. Named inventor on two issued U.S. patents. Combines AWS cloud, .NET, "
-        "SQL, and systems integration with deep expertise in energy, mining, manufacturing, and "
-        "environmental systems, and leads cross-functional teams through the full project lifecycle.",
+        "SQL, and systems integration with generative AI (Cursor, Claude, ChatGPT) and deep expertise "
+        "in energy, mining, manufacturing, and environmental systems. Leads cross-functional teams "
+        "through the full project lifecycle.",
         space_after=2,
     )
 
     heading(doc, "Selected Highlights")
+    add_bullet(
+        doc,
+        "AI-assisted architecture — Apply Cursor, Claude, and ChatGPT to design, code, document, "
+        "and troubleshoot energy and industrial systems, pairing LLM workflows with architectural "
+        "ownership and domain validation.",
+    )
     add_bullet(
         doc,
         "Vistra — Designed a data-driven process engine for dynamic tasks; mine planning and "
@@ -285,25 +292,40 @@ def build():
     add_bullet(
         doc,
         "Automated Response Information Systems — Designed and implemented a hardware-based "
-        "voice-recognition system for hands-free data collection in harsh environments.",
-    )
-    add_bullet(
-        doc,
-        "Stanford Telecommunications — Worked on a team that developed planning and control "
-        "software for the defense communication satellite network.",
+        "voice-recognition system for hands-free data collection in harsh environments "
+        "(early applied AI / speech recognition).",
     )
 
     heading(doc, "Core Competencies")
     body_para(
         doc,
-        "Application Architecture  ·  Systems Integration  ·  AWS Cloud & Chef  ·  "
-        ".NET / C# / SQL  ·  Agile / Scrum  ·  Cross-Functional Leadership  ·  Root-Cause Analysis  ·  "
-        "TCO Analysis  ·  Data Modeling & Database Design  ·  Emissions Compliance & Carbon Credit "
-        "Trading  ·  Mining Operations Software  ·  GIS  ·  SharePoint  ·  OSIsoft PI  ·  Tableau",
+        "Application Architecture  ·  Generative AI (Cursor, Claude, ChatGPT)  ·  Systems Integration  ·  "
+        "AWS Cloud & Chef  ·  .NET / C# / SQL  ·  Agile / Scrum  ·  Cross-Functional Leadership  ·  "
+        "Root-Cause Analysis  ·  TCO Analysis  ·  Data Modeling & Database Design  ·  Emissions "
+        "Compliance & Carbon Credit Trading  ·  Mining Operations Software  ·  GIS  ·  SharePoint  ·  "
+        "OSIsoft PI  ·  Tableau",
         space_after=2,
     )
 
     heading(doc, "Professional Experience")
+
+    job_header(
+        doc,
+        "Independent",
+        "Texas",
+        "Application Architect, AI-Assisted Systems",
+        "Mar 2025 – Present",
+    )
+    add_bullet(
+        doc,
+        "Apply Cursor, Claude, and ChatGPT across architecture, coding, root-cause analysis, and "
+        "documentation to accelerate delivery while retaining design ownership and domain review.",
+    )
+    add_bullet(
+        doc,
+        "Use AI-assisted development to prototype and refine cloud and application solutions "
+        "(AWS, .NET, SQL) for energy, climate-tech, and industrial operations.",
+    )
 
     job_header(
         doc,
@@ -427,7 +449,7 @@ def build():
         "Owner",
         "Oct 1991 – Oct 1993",
         "Designed and implemented a hardware-based voice-recognition system for hands-free "
-        "data collection in harsh environments.",
+        "data collection in harsh environments (early applied AI / speech recognition).",
     )
     compact_role(
         doc,
@@ -475,6 +497,11 @@ def build():
     heading(doc, "Technical Skills")
     skill_line(
         doc,
+        "AI & developer tools",
+        "Cursor, Claude, ChatGPT; AI-assisted architecture, coding, RCA, and documentation",
+    )
+    skill_line(
+        doc,
         "Languages & platforms",
         "C# / .NET, VB.NET, C++ / C++.NET, C, PHP, Java, SQL, AJAX, Chef, Intel Assembly; "
         "prior: Ada, FORTRAN, BASIC, VMS/DCL, PRO*C, FOCUS, PAL, Silverlight",
@@ -489,14 +516,15 @@ def build():
         doc,
         "Applications & tools",
         "Visual Studio, SharePoint, ESRI GIS, Formotus, TDMobile, Qdabra, SmartProcedures, "
-        "Visio, MS Project, LabVIEW, Cursor, Claude, ChatGPT",
+        "Visio, MS Project, LabVIEW",
     )
     skill_line(
         doc,
         "Domains",
         "Fossil generation, mining operations, emissions compliance and carbon credit trading, "
         "MSHA training, behavior-based safety, land management, mobility, digital signage, "
-        "computer manufacturing software delivery, biofuels process intensification",
+        "computer manufacturing software delivery, biofuels process intensification, "
+        "AI-assisted industrial systems",
     )
 
     heading(doc, "Education & Professional Development")
