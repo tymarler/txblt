@@ -254,52 +254,48 @@ def build():
     heading(doc, "Professional Summary")
     body_para(
         doc,
-        "Results-oriented technical strategist and application architect who builds mission-critical "
-        "software and data-driven systems for operational efficiency, regulatory compliance, and "
-        "business outcomes. Named inventor on two issued U.S. patents. Combines AWS cloud, .NET, "
-        "SQL, and systems integration with generative AI (Cursor, Claude, ChatGPT) and deep expertise "
-        "in energy, mining, manufacturing, and environmental systems. Leads cross-functional teams "
-        "through the full project lifecycle.",
+        "Application architect currently shipping AI-assisted products with Cursor, Claude, and "
+        "ChatGPT, following five years at Vistra designing generation, mining, and emissions "
+        "systems — including a cloud credit-trading platform that accounted for $60 million in "
+        "profit in the first two months. Named inventor on two U.S. patents. Combines AWS, .NET, "
+        "SQL, and systems integration with deep energy, mining, and manufacturing domain expertise, "
+        "and leads cross-functional teams through the full project lifecycle.",
         space_after=2,
     )
 
     heading(doc, "Selected Highlights")
     add_bullet(
         doc,
-        "AI-built applications — Used Cursor, Claude, and ChatGPT to architect and develop an "
+        "Independent (2025–present) — Used Cursor, Claude, and ChatGPT to architect and develop an "
         "international fugitive-tracking application, a custom architectural-planning site, a "
         "clothing-brand retail site, and an internet television streaming application.",
     )
     add_bullet(
         doc,
-        "Vistra — Designed a data-driven process engine for dynamic tasks; mine planning and "
-        "monitoring software that measures productivity by shift; and a cloud emissions platform "
-        "that unified diverse systems for credit trading, accounting for $60 million in profit "
-        "in the first two months.",
+        "Vistra (2019–2025) — Designed a data-driven process engine; mine planning software that "
+        "measures productivity by shift; and a cloud emissions platform that unified diverse "
+        "systems for credit trading ($60 million in the first two months).",
     )
     add_bullet(
         doc,
-        "Compaq — Invented and developed a patented software-delivery system that eliminated more "
-        "than 70% of computer manufacturing time, plus a post-sales configuration method that "
-        "increased inventory flexibility.",
+        "Accenture (2016–2019) — Led Fossil Applications operations for Luminant generation and "
+        "mining; delivered a cloud modernization three weeks ahead of schedule.",
     )
     add_bullet(
         doc,
-        "Texas Built Biofuels — Invented a process-intensified biodiesel method that reduced "
-        "reaction time from 4 hours to 4 minutes (60x throughput; ~40% lower energy cost per "
-        "gallon; ASTM-quality fuel).",
+        "Capgemini (2008–2016) — Architected Fossil Generation applications spanning MSHA training, "
+        "emissions compliance, GIS, safety, mobility, PI, and SharePoint.",
     )
     add_bullet(
         doc,
-        "Automated Response Information Systems — Designed and implemented a hardware-based "
-        "voice-recognition system for hands-free data collection in harsh environments "
-        "(early applied AI / speech recognition).",
+        "Texas Built (1998–2008) — Invented a process-intensified biodiesel method that reduced "
+        "reaction time from 4 hours to 4 minutes (60x throughput; ~40% lower energy cost per gallon).",
     )
 
     heading(doc, "Core Competencies")
     body_para(
         doc,
-        "Application Architecture  ·  Generative AI (Cursor, Claude, ChatGPT)  ·  Systems Integration  ·  "
+        "Generative AI (Cursor, Claude, ChatGPT)  ·  Application Architecture  ·  Systems Integration  ·  "
         "AWS Cloud & Chef  ·  .NET / C# / SQL  ·  Agile / Scrum  ·  Cross-Functional Leadership  ·  "
         "Root-Cause Analysis  ·  TCO Analysis  ·  Data Modeling & Database Design  ·  Emissions "
         "Compliance & Carbon Credit Trading  ·  Mining Operations Software  ·  GIS  ·  SharePoint  ·  "
@@ -410,7 +406,6 @@ def build():
         "and application monitoring.",
     )
 
-    heading(doc, "Additional Experience")
     compact_role(
         doc,
         "Texas Built Company, LLC",
@@ -481,6 +476,10 @@ def build():
     heading(doc, "Patents")
     add_bullet(
         doc,
+        "Pending — Texas Built process intensified biofuels reactor technologies.",
+    )
+    add_bullet(
+        doc,
         "U.S. 6,202,070 (2001) — Computer manufacturing system architecture with enhanced "
         "software distribution functions (Compaq; named inventor).",
     )
@@ -488,10 +487,6 @@ def build():
         doc,
         "U.S. 5,974,567 (1999) — Ghost partition / runtime-selectable file system "
         "(Compaq; named inventor).",
-    )
-    add_bullet(
-        doc,
-        "Pending — Texas Built process intensified biofuels reactor technologies.",
     )
 
     heading(doc, "Technical Skills")
@@ -502,15 +497,15 @@ def build():
     )
     skill_line(
         doc,
-        "Languages & platforms",
-        "C# / .NET, VB.NET, C++ / C++.NET, C, PHP, Java, SQL, AJAX, Chef, Intel Assembly; "
-        "prior: Ada, FORTRAN, BASIC, VMS/DCL, PRO*C, FOCUS, PAL, Silverlight",
-    )
-    skill_line(
-        doc,
         "Cloud, data & monitoring",
         "AWS, Amazon RDS, Chef, APIs, OSIsoft PI, MS SQL Server, MySQL, Oracle, DB2, Tableau, "
         "SCADA/PLC integration, BAM application monitoring, StackVision, NetDAHS",
+    )
+    skill_line(
+        doc,
+        "Languages & platforms",
+        "C# / .NET, VB.NET, C++ / C++.NET, C, PHP, Java, SQL, AJAX, Chef, Intel Assembly; "
+        "prior: Ada, FORTRAN, BASIC, VMS/DCL, PRO*C, FOCUS, PAL, Silverlight",
     )
     skill_line(
         doc,
@@ -521,18 +516,18 @@ def build():
     skill_line(
         doc,
         "Domains",
-        "Fossil generation, mining operations, emissions compliance and carbon credit trading, "
-        "MSHA training, e-commerce, streaming media, architectural planning systems, "
-        "investigative/tracking applications, biofuels process intensification, "
-        "AI-assisted industrial systems",
+        "AI-assisted applications, investigative/tracking systems, architectural planning, "
+        "e-commerce, streaming media, fossil generation, mining operations, emissions "
+        "compliance and carbon credit trading, MSHA training, biofuels process intensification",
     )
 
     heading(doc, "Education & Professional Development")
     body_para(
         doc,
-        "Computer Science coursework and Certificate in Ada, Colorado Technical College. "
-        "Advanced C++ and Advanced Java, Compaq. DEC VAX/VMS System Management. U.S. Army "
-        "Basic Electronics, Strategic Microwave System Repair, and Cryptographic courses.",
+        "Advanced C++ and Advanced Java, Compaq Computer Corporation. Computer Science "
+        "coursework and Certificate in Ada, Colorado Technical College. DEC VAX/VMS System "
+        "Management. U.S. Army Basic Electronics, Strategic Microwave System Repair, and "
+        "Cryptographic courses.",
         space_after=0,
     )
 

@@ -21,10 +21,11 @@ Named inventor on two U.S. patents. I build cloud and on-prem systems for energy
 
 Recent highlights:
 • Independent (2025–present): Used Cursor, Claude, and ChatGPT to develop an international fugitive-tracking application, a custom architectural-planning site, a clothing-brand retail site, and an internet television streaming application.
-• At Vistra, designed a cloud emissions platform that unified data from diverse systems for carbon-credit trading — $60 million in profit in the first two months — plus a data-driven process engine and mine planning software that measures productivity by shift.
-• At Compaq, invented a patented software-delivery architecture that eliminated more than 70% of computer manufacturing time, and a post-sales configuration method that increased inventory flexibility.
-• At Texas Built, invented a process-intensified biodiesel method that cut reaction time from 4 hours to 4 minutes (about 60x throughput and ~40% lower energy cost per gallon).
-• Earlier, built hands-free voice recognition for harsh environments (early applied AI) and planning/control software for the defense communication satellite network at Stanford Telecommunications.
+• At Vistra (2019–2025), designed a cloud emissions platform that unified data from diverse systems for carbon-credit trading — $60 million in profit in the first two months — plus a data-driven process engine and mine planning software that measures productivity by shift.
+• At Accenture (2016–2019), led Fossil Applications for Luminant generation and mining and delivered a cloud modernization three weeks ahead of schedule.
+• At Capgemini (2008–2016), architected Fossil Generation applications spanning MSHA training, emissions, GIS, safety, mobility, PI, and SharePoint.
+• At Texas Built (1998–2008), invented a process-intensified biodiesel method that cut reaction time from 4 hours to 4 minutes.
+• At Compaq, invented a patented software-delivery architecture that eliminated more than 70% of computer manufacturing time.
 
 I lead cross-functional teams across product, engineering, DevOps, QA, and security, and I communicate architecture in language that operations, trading, and executives can act on. Open to architecture, fractional CTO, and consulting work in energy, climate-tech, industrial systems, and AI-assisted delivery.
 ```
