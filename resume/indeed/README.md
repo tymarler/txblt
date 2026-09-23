@@ -28,7 +28,12 @@ Content matches the latest resume on `cursor/resume-generation-28e1` plus later 
 4. Select `Anthony_Ty_Marler_Indeed_Resume.docx`
 5. Preview the parsed fields (name, phone, email, jobs, dates) before saving
 
-File size is well under Indeed’s typical 2–5 MB apply cap.
+File size is well under Indeed's typical 2–5 MB apply cap.
+
+## NextEra Energy cover letter
+
+- Word: [`../cover-letters/NextEra_Energy_Cover_Letter.docx`](../cover-letters/NextEra_Energy_Cover_Letter.docx)
+- Markdown: [`../cover-letters/NextEra_Energy_Cover_Letter.md`](../cover-letters/NextEra_Energy_Cover_Letter.md)
 
 ## Regenerate
 
