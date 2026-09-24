@@ -37,7 +37,7 @@ August 2016 - December 2019
 - Led day-to-day maintenance, enhancement, and operations for the Fossil Applications portfolio serving Luminant generation and mining.
 - Directed development across AWS, Chef, .NET, C#, C++, PHP, SQL Server, MySQL, Tableau, Formotus, TDMobile, StackVision, and NetDAHS.
 - Owned troubleshooting and root-cause analysis for production issues across ROTT, Skaief, SmartProcedures, GIS, Mobility, Safety Index, Proact, Digital Signage, Qdabra, SharePoint, PI, and land management.
-- Led a cloud modernization that aligned DevOps, QA, and engineering and delivered three weeks ahead of schedule. Mentored engineers on AWS and Chef; a junior developer became a lead contributor within six months.
+- Led the Fossil Applications cloud modernization on AWS and Chef, putting DevOps, QA, and engineering on one release path and finishing the cutover three weeks early.
 
 ### Senior Application Architect
 Capgemini, LLC, Texas
