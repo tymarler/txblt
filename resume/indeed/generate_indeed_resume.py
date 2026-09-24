@@ -44,8 +44,9 @@ SUMMARY = (
     "Senior application architect and fractional CTO currently shipping "
     "AI-assisted products with Cursor, Claude, and ChatGPT. Previously spent "
     "five years at Vistra designing generation, mining, and emissions systems, "
-    "including a cloud credit-trading platform that accounted for $60 million "
-    "in profit in the first two months. Named inventor on two U.S. patents. "
+    "including an environmental data platform for credit trading that "
+    "accounted for $60 million in profit in the first two months. Named "
+    "inventor on two U.S. patents. "
     "Combines AWS, .NET, SQL, and systems integration with energy, mining, and "
     "manufacturing domain expertise, and leads cross-functional teams through "
     "the full project lifecycle."
@@ -72,8 +73,8 @@ JOBS = [
         "location": "Texas",
         "dates": "March 2025 - Present",
         "bullets": [
-            "Used Cursor, Claude, and ChatGPT to architect and develop an international fugitive-tracking application and a custom architectural-planning website.",
-            "Delivered a clothing-brand retail / e-commerce site and an internet television streaming application with AI-assisted architecture, UI, and backend development.",
+            "Used Cursor, Claude, and ChatGPT to architect and develop an international fugitive-tracking application and a custom architectural planning website.",
+            "Delivered a clothing-brand retail site and an internet television streaming application with AI-assisted architecture, UI, and backend development.",
         ],
     },
     {
@@ -82,10 +83,10 @@ JOBS = [
         "location": "Texas",
         "dates": "December 2019 - February 2025",
         "bullets": [
-            "Designed and developed a data-driven process engine to manage dynamic tasks, providing automated steps to drive the process to completion.",
-            "Designed and developed mine planning and monitoring software to calculate productivity and measure results by shift.",
-            "Designed and developed a cloud-based AWS platform that ingested SCADA, PLC, and third-party emissions data into a normalized database for credit trading; accounted for $60 million in profit in the first two months, cut trading latency from weeks to hours, and reduced compliance reporting time by 80%.",
-            "Led web applications supporting mining, fossil generation, battery, and solar operations, including Tableau dashboards for traders and compliance officers.",
+            "Designed and developed a data-driven process engine that automated dynamic operational tasks and drove each workflow to completion.",
+            "Designed and developed mine planning and monitoring software that measured productivity by shift.",
+            "Designed and developed an AWS platform that ingested SCADA, PLC, and third-party environmental feeds and normalized actual and planned environmental data with planned generation so traders could act on a single picture of fleet position; the platform accounted for $60 million in profit in the first two months, cut trading latency from weeks to hours, and reduced compliance reporting time by 80%.",
+            "Led development of web applications supporting mining, fossil generation, battery, and solar operations, including Tableau dashboards for traders and compliance officers.",
         ],
     },
     {
@@ -107,7 +108,7 @@ JOBS = [
         "dates": "February 2008 - August 2016",
         "bullets": [
             "Architected and delivered Fossil Generation applications covering MSHA training, emissions compliance, procedures, GIS, safety, mobility, digital signage, and SharePoint.",
-            "Provided architectural solutions for new builds and rebuilds to improve reliability and functionality, including TCO analysis of existing and future-state environments.",
+            "Provided architecture for new builds and rebuilds to improve reliability and function, including TCO analysis of current and future-state environments.",
             "Served as SME for mining operations, mining software systems, data modeling, and database design; introduced mobility (Formotus, TDMobile), OSIsoft PI, land management, and application monitoring.",
         ],
     },
@@ -127,7 +128,7 @@ JOBS = [
         "location": "United States",
         "dates": "March 1997 - February 1998",
         "bullets": [
-            "Worldwide software systems architecture for PC manufacturing and configuration platforms.",
+            "Architected worldwide software systems for PC manufacturing and configuration platforms.",
         ],
     },
     {
@@ -136,7 +137,7 @@ JOBS = [
         "location": "Houston, TX",
         "dates": "October 1993 - March 1997",
         "bullets": [
-            "Invented and developed a patented software-delivery system that eliminated more than 70% of the manufacture time of Compaq computers. Also invented a post-sales configuration method that increased inventory flexibility.",
+            "Invented and developed a patented software-delivery system that cut more than 70% of the time required to manufacture Compaq computers. Also invented a post-sales configuration method that increased inventory flexibility.",
             "Named inventor on U.S. Patents 6,202,070 and 5,974,567.",
         ],
     },
@@ -146,7 +147,7 @@ JOBS = [
         "location": "United States",
         "dates": "October 1991 - October 1993",
         "bullets": [
-            "Designed and implemented a hardware-based voice-recognition system for hands-free data collection in harsh environments (early applied AI / speech recognition).",
+            "Designed and implemented a hardware-based voice-recognition system for hands-free data collection in harsh environments.",
         ],
     },
     {
@@ -155,7 +156,7 @@ JOBS = [
         "location": "United States",
         "dates": "July 1989 - August 1991",
         "bullets": [
-            "Worked on a team to develop planning and control software for the defense communication satellite network.",
+            "Developed planning and control software for the defense communications satellite network as part of a project team.",
         ],
     },
     {
