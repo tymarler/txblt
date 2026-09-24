@@ -97,7 +97,7 @@ JOBS = [
             "Led day-to-day maintenance, enhancement, and operations for the Fossil Applications portfolio serving Luminant generation and mining.",
             "Directed development across AWS, Chef, .NET, C#, C++, PHP, SQL Server, MySQL, Tableau, Formotus, TDMobile, StackVision, and NetDAHS.",
             "Owned troubleshooting and root-cause analysis for production issues across ROTT, Skaief, SmartProcedures, GIS, Mobility, Safety Index, Proact, Digital Signage, Qdabra, SharePoint, PI, and land management.",
-            "Led the Fossil Applications cloud modernization on AWS and Chef, putting DevOps, QA, and engineering on one release path and finishing the cutover three weeks early.",
+            "Led the Fossil Applications cloud modernization on AWS and Chef, putting DevOps, QA, and engineering on one release path and finishing the cutover ahead of schedule.",
         ],
     },
     {
